@@ -40,17 +40,17 @@ The dataset used in this project is the 'SmartPrix Laptop Unclean Dataset', whic
    git clone https://github.com/your-username/smartprix-laptop-data-cleaning.git
    ```
 
-2. Navigate to the Project Directory:
+2. **Navigate to the Project Directory**:
    ```sh
    cd smartprix-laptop-data-cleaning
    ```
    
-3. Install Required Libraries: Install the required libraries using:
+3. **Install Required Libraries**: Install the required libraries using:
    ```sh
    pip install -r requirements.txt
    ```
 
-4. Open the Jupyter Notebook: Launch Jupyter Notebook to view and run the project:
+4. **Open the Jupyter Notebook**: Launch Jupyter Notebook to view and run the project:
    ```sh
    jupyter notebook
    ```
@@ -88,4 +88,4 @@ smartprix-laptop-data-cleaning/
 
 ## Acknowledgements
 
-The data is of all the Laptops available online on SmartPrix website in India in the month of March of 2024. (dataset from [kaggle](kaggle.com)
+The data is of all the Laptops available online on SmartPrix website in India in the month of March of 2024. (dataset from [kaggle](kaggle.com))
