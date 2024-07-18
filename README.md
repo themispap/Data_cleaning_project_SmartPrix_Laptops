@@ -41,9 +41,51 @@ The dataset used in this project is the 'SmartPrix Laptop Unclean Dataset', whic
    ```
 
 2. Navigate to the Project Directory:
-```sh
-cd smartprix-laptop-data-cleaning
-```
+   ```sh
+   cd smartprix-laptop-data-cleaning
+   ```
+   
+3. Install Required Libraries: Install the required libraries using:
+   ```sh
+   pip install -r requirements.txt
+   ```
 
+4. Open the Jupyter Notebook: Launch Jupyter Notebook to view and run the project:
+   ```sh
+   jupyter notebook
+   ```
+   
+5. Run the Notebook:
+   Open and run the data_cleaning.ipynb notebook to see the data cleaning process.
 
+## Results
 
+The cleaned dataset is saved as cleaned_smartprix_laptops.csv and is ready for further analysis or machine learning tasks. The cleaning process ensures that the dataset is free of inconsistencies, missing values, and duplicates, providing a reliable basis for any subsequent analysis.
+
+## Repository Structure
+
+   ```kotlin
+smartprix-laptop-data-cleaning/
+│
+├── data/
+│   └── smartprix_laptops_unclean.csv
+│
+├── cleaned_data/
+│   └── cleaned_smartprix_laptops.csv
+│
+├── notebooks/
+│   └── data_cleaning.ipynb
+│
+├── README.md
+│
+└── requirements.txt
+   ```
+
+## requirements.txt
+
+- `pandas`
+- `jupyter`
+
+## Acknowledgements
+
+The data is of all the Laptops available online on SmartPrix website in India in the month of March of 2024. (dataset from [kaggle](kaggle.com)
