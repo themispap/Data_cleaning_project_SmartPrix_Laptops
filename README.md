@@ -8,15 +8,33 @@ This project focuses on cleaning and preparing the 'SmartPrix Laptop Unclean Dat
 
 The dataset used in this project is the 'SmartPrix Laptop Unclean Dataset', which includes the following columns:
 
-- `brand`: The brand of the laptop.
-- `model`: The model of the laptop.
-- `processor`: Details about the laptop's processor.
-- `ram`: The amount of RAM in the laptop.
-- `storage`: The storage capacity of the laptop.
-- `display`: Information about the laptop's display.
-- `price`: The price of the laptop.
-- `rating`: The customer rating of the laptop.
-- `reviews`: The number of reviews for the laptop.
+- `name`: The name of the laptop.
+- `price`: price
+- `spec_score`
+- `votes`: Number of votes
+- `user_rating`
+- `os`: Operating system
+- `utility`
+- `thickness`: The thickness
+- `weight`: The weight
+- `warranty`: The warranty period
+- `screen_size`: The screen size
+- `resolution`: The screen resolution
+- `ppi`
+- `battery`: The battery capacity
+- `screen_feature1`
+- `screen_feature2`
+- `processor_name`: The name of the processor
+- `processor_speed`: The processor's speed
+- `no_cores`: The number of cores
+- `caches`
+- `graphics_card`: The name of the graphics card
+- `rom_memory`: ROM size
+- `internal_memory`: RAM size
+- `port_connection`
+- `wireless_connection`
+- `usb_ports`
+- `hardware_features`
 
 ## Tools and Libraries Used
 
