@@ -73,7 +73,7 @@ The dataset used in this project is the 'SmartPrix Laptop Unclean Dataset', whic
    jupyter notebook
    ```
    
-5. Run the Notebook:
+5. **Run the Notebook**:
    Open and run the data_cleaning.ipynb notebook to see the data cleaning process.
 
 ## Results
